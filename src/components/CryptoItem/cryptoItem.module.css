@@ -1,0 +1,49 @@
+.cryptoItemWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cryptoItemContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 32px;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.cryptoInfo {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 8px;
+}
+
+.cryptoName {
+  color: var(--white);
+  margin: 0;
+}
+
+.cryptoValue {
+  color: var(--grey);
+  font-size: 14px;
+}
+
+.button {
+  background-color: transparent;
+  color: var(--grey);
+  border: 0;
+  margin: 8px;
+}
+
+.button:hover {
+  color: var(--white);
+}
+
+.separator {
+  border: 0;
+  background: linear-gradient(to right, var(--white), transparent);
+  height: 1px;
+  width: 100%;
+}

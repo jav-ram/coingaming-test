@@ -1,0 +1,18 @@
+.wizardContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: var(--white);
+  width: 300px;
+  padding: 40px 60px;
+  border-radius: 4px;
+  height: fit-content;
+  z-index: 1;
+}
+
+.disclaimer {
+  color: var(--grey);
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}

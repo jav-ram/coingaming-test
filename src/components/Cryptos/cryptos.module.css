@@ -1,0 +1,8 @@
+.cryptosContainer {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  gap: 4px;
+  height: 272px;
+  overflow-y: auto;
+}

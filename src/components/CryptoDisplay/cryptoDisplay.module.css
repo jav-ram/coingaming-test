@@ -1,0 +1,29 @@
+.cryptoDisplay {
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.cryptoWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  color: var(--white);
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  color: var(--grey);
+  width: 65%;
+}
+
+.figure {
+  position: relative;
+  height: 700px;
+  right: 70px;
+}
