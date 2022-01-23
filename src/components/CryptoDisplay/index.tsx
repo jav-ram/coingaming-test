@@ -19,7 +19,7 @@ const query = gql`query GetCrypto($name: String) {
 }`
 
 export const CryptoContext = React.createContext({
-  executeFetch: (q: any)  => {},
+  executeFetch: (q: any)  => {return q;},
   data: {
     markets: [
       {marketSymbol: '', ticker: { lastPrice: 0 }}

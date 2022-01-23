@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jav-ram/coingaming-test/static/css/main.865e9ec5.css",
+    "main.js": "/jav-ram/coingaming-test/static/js/main.8ce8e9f2.js",
+    "static/media/figure.png": "/jav-ram/coingaming-test/static/media/figure.d4ee58034783f18dcf05.png",
+    "static/media/bg.png": "/jav-ram/coingaming-test/static/media/bg.25ebef3e71a3ffd3f110.png",
+    "static/media/logo.svg": "/jav-ram/coingaming-test/static/media/logo.97469e11df88f3c9e640847fa7ca7758.svg",
+    "static/media/icon.svg": "/jav-ram/coingaming-test/static/media/icon.c2fb69d097e7795c1ad351b5618fcb36.svg",
+    "index.html": "/jav-ram/coingaming-test/index.html",
+    "main.865e9ec5.css.map": "/jav-ram/coingaming-test/static/css/main.865e9ec5.css.map",
+    "main.8ce8e9f2.js.map": "/jav-ram/coingaming-test/static/js/main.8ce8e9f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865e9ec5.css",
+    "static/js/main.8ce8e9f2.js"
+  ]
+}

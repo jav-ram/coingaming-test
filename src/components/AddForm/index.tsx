@@ -25,7 +25,7 @@ const AddForm = () => {
     <Form
       onSubmit={onSubmit} // here we should manage the submit
       render={
-        ({ handleSubmit, form, submitting, values }) => (
+        ({ handleSubmit }) => (
           <form className={styles.formContainer} onSubmit={handleSubmit}>
             <Field
               name="crypto"
